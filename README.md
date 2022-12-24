@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vjean001
 - 👀 I’m interested in Cloud Compute
-- 🌱 I’m currently learning AWS
+- 🌱 I currently have my aws cloud practitioner cert
 - 💞️ I’m looking to collaborate on Cloud projects
 - 📫 Reach me here or Twitter@lionheart2099
 
